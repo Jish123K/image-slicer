@@ -1,4 +1,5 @@
 
+#Image parser
 
 An image parser in Python is a program that analyzes an image file and extracts relevant information from it. This process typically involves converting the image data into a format that can be easily manipulated by the computer, such as an array of pixel values.
 
